@@ -1,0 +1,99 @@
+body{
+    background-color: rgba(58, 40, 68, 0.842);
+ }
+ title{
+  text-align: center;
+ }
+
+ header{
+    width: 40%;
+    margin-left: 31%;
+ }
+
+ #descricao_pantanal{
+    text-align: center;
+ }
+
+ #titulo_tucano{
+    text-align: center;
+ }
+ 
+article h2{
+  margin: 0 36%;
+}
+ article{
+    background-color: antiquewhite;
+    text-align: justify;
+    width: 40%;
+    padding: 10px;
+    margin-left: 29%;
+ }
+
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+ }
+
+ #menu{
+
+   background-color: transparent;
+   list-style-type: none;
+   padding: 0px;
+   margin: 0px;
+  overflow: hidden;
+  width: 41%;
+  margin-left: 29%;
+
+ }
+
+ #menu li{
+  float: left;
+  margin-left: 10%;
+
+ }
+ #menu li a{
+   display: block;
+   text-align: center;
+   padding: 10px 10px;
+   text-decoration: none;
+ }
+
+ #menu li a:hover{
+transition: 0.5s;
+color: white;
+background-color: cornflowerblue;
+
+ }
+
+ #menu li a:visited{
+  text-decoration:none;
+  color: blue;
+ }
+
+ p{
+   text-align: center;
+ }
+
+ ol li span{
+   float: right;
+ }
+
+ ol li{
+   border-bottom: 1px solid black;
+ }
+
+ footer{
+   background-color: transparent;
+ }
+
+
+
+ #btt_link a{
+   text-decoration: none;
+   color: white;
+   background-color: cornflowerblue;
+   border-radius: 5px;
+   padding: 7px;
+ }
